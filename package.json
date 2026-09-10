@@ -36,7 +36,7 @@
         "@types/react-dom": "^19.2.3",
         "@types/react-router-dom": "^5.3.3",
         "@vitejs/plugin-react": "^6.0.1",
-        "@vitest/coverage-v8": "^4.1.2",
+        "@vitest/coverage-v8": "^5.0.0",
         "electron": "^44.1.0",
         "electron-builder": "^26.6.0",
         "node-abi": "^4.26.0",
@@ -46,7 +46,7 @@
         "typescript": "^7.0.2",
         "vite": "^8.0.3",
         "vite-plugin-electron": "^0.29.1",
-        "vitest": "^4.1.2"
+        "vitest": "^5.0.0"
     },
     "dependencies": {
         "@fluentui/react-components": "^9.72.9",
